@@ -1,0 +1,6 @@
+Add zero padding to Exercise01_01 and Exercise01_02 
+Add zero padding to Exercise01_03 and Exercise01_04 
+Add zero padding to Exercise01_05 and Exercise01_06 
+Add zero padding to Exercise01_07 and Exercise01_08 
+Add zero padding to Exercise01_09 and Exercise01_10 
+Add zero padding to Exercise01_11 and Exercise01_12 
